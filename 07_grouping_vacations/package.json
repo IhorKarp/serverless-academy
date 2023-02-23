@@ -1,0 +1,19 @@
+{
+  "name": "07_grouping_vacations",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorKarp/grouping-vacations.git"
+  },
+  "author": "Ihor Karp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorKarp/grouping-vacations/issues"
+  },
+  "homepage": "https://github.com/IhorKarp/grouping-vacations#readme"
+}
